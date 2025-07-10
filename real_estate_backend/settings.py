@@ -119,7 +119,8 @@ SIMPLE_JWT = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",  # Next.js frontend
+    "http://localhost:3000",
+    "https://altara-homes.vercel.app/",  # Next.js frontend
 ]
 
 AUTH_USER_MODEL = "properties.CustomUser"
