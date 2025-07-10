@@ -1,7 +1,9 @@
 # 🏠 Real Estate Platform - Django REST API
 
 A scalable real estate listing and inquiry platform built with **Django REST Framework**.  Users can browse properties, submit inquiries, favorite listings, and agents/admins can manage content securely.
-**Live API**: [https://real-estate-backend-ur4i.onrender.com](https://real-estate-backend-ur4i.onrender.com)
+**Frontend:** [Demo Website](https://altara-homes.vercel.app/)
+
+**Live API:** [API Demo](https://real-estate-backend-ur4i.onrender.com)
 
 ---
 
