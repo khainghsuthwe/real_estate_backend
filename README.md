@@ -27,7 +27,7 @@ This guide helps you set up the **Real Estate Django REST API** on your local ma
 ## 📁 Prerequisites
 
 - Python 3.10+
-- PostgreSQL (or change to SQLite for local testing)
+- PostgreSQL
 - pip (Python package manager)
 - Docker (optional, for containerized setup)
 
@@ -36,7 +36,7 @@ This guide helps you set up the **Real Estate Django REST API** on your local ma
 ##  1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/real-estate-backend.git
+git clone https://github.com/khainghsuthwe/real_estate_backend.git
 cd real-estate-backend
 ```
 ##  2. Create a Virtual Environment (Without Docker)
